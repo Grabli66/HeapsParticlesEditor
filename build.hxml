@@ -1,5 +1,6 @@
 -lib heaps
 -lib HeapsParticles
+-lib hscript
 -cp src
 -main Main
 -js main.js
